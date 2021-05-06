@@ -50,7 +50,7 @@ if update == "1":
 code = (input(" type : 2 for get code :  "))
 time.sleep(3.0)
 print(f"{red} ")
-if code == "2": print ("code is    (/3.6.8.2/f/g.h////4.2.5.7.8.9.9.3.8.1.5.7.8.1.5.8.9.4.8/)   for Update type 1 -")
+if code == "2": print ("code is    yttk_155770   for Update type 1 -")
 time.sleep(3.0)
 print(f"{blue}" )
 print (" Baraye Estefade Az code dar kanal rubika' man ozv shin-!🌟 -! ")
