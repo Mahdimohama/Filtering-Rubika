@@ -8,20 +8,33 @@ os.system("clear")
 print ("         Script By")
 red='\033[31m'
 print(f"{red} ")
-print ("               _   _            ____                       _    __")
-print (" _ __ ___     (_) (_)          / ___|   __ _   ___   ___  (_)  / _|   ___ _ __")
-print ("| '_ ` _ \    | | | |  _____  | |      / _` | / __| / __| | | | |_   / _ \ '__|")
-print ("| | | | | |   | | | | |_____| | |___  | (_| | \__ \ \__ \ | | |  _| |  __/ |")
-print ("|_| |_| |_|  _/ | |_|          \____|  \__,_| |___/ |___/ |_| |_|    \___|_|")
-print("      |__/")
-time.sleep(5.3)
+z = """
+                         Mojtaba CaSsiFer
+
+        [+]█████████████████████████████████████████████████[+]
+
+
+
+
+               _   _            ____                       _    __")
+ _ __ ___     (_) (_)          / ___|   __ _   ___   ___  (_)  / _|   ___ _ __
+| '_ ` _ \    | | | |  _____  | |      / _` | / __| / __| | | | |_   / _ \ '__|
+| | | | | |   | | | | |_____| | |___  | (_| | \__ \ \__ \ | | |  _| |  __/ |
+|_| |_| |_|  _/ | |_|          \____|  \__,_| |___/ |___/ |_| |_|    \___|_|
+      |__/
+"""
+for c in z:
+    sys.stdout.write(c)
+    sys.stdout.flush()
+    time.sleep(0.03)
+time.sleep(2.3)
 green='\033[32m'
 print(f"{green} ")
 time.sleep(2.7)
 print("                   ID RUBIKA @SHUBADEHBAZ IM MOJTABA CASSIFER")
 print ("                         ID telegram @Creator_Typeri")
 print(f"{green} ")
-time.sleep(2)
+time.sleep(1.0)
 print("__________")
 time.sleep(0.7)
 print("#_________")
@@ -65,4 +78,8 @@ print(f"{rang}" )
 print (" Kanal rubikam = @Cassif3r")
 time.sleep(3.0)
 print (" Bye Bye My Friend :)💔")
-
+print ("⛔⛔⛔ Tavajo Alan Script Pak Shore -!-💔 Baraye Ejra Mojadad Donate ❗Danlod❗ Kon ")
+print (" Termux To bband VA Dastor zir to cared Kon❗❗❗")
+time.sleep(3.0)
+print (" in To Bezan Baraye Danlod git clone https://github.com/C4ssif3r/Filtering")
+os.system("cd $HOME")
