@@ -2,7 +2,9 @@ import os
 import sys
 import time
 blue='\033[36m'
+rang='\033[34m'
 print(f"{blue} ")
+os.system("clear")
 print ("         Script By")
 red='\033[31m'
 print(f"{red} ")
@@ -42,9 +44,17 @@ print("#########_")
 time.sleep(0.1)
 print("##########")
 update = (input(" 💔 Type 1 for update <>>💔 : "))
-if update == "1": os.system("git clone https://github.com/C4ssif3r/Filtering")
+if update == "1":
+        os.system("rm -rf Filtering")
+        os.system("git clone https://github.com/C4ssif3r/Filtering")
 code = (input(" type : 2 for get code :  "))
 time.sleep(3.0)
 print(f"{red} ")
-if code == "2": print("code is    (/3.6.8.2/f/g.h////4.2.5.7.8.9.9.3.8.1.5.7.8.1.5.8.9.4.8/)   for Update type 1 - Baraye Estefade Az code dar kanal rubika' man ozv shin-!🌟 -! ")
+if code == "2": print ("code is    (/3.6.8.2/f/g.h////4.2.5.7.8.9.9.3.8.1.5.7.8.1.5.8.9.4.8/)   for Update type 1 -")
+time.sleep(3.0)
+print(f"{blue}" )
+print (" Baraye Estefade Az code dar kanal rubika' man ozv shin-!🌟 -! ")
+time.sleep(3.0)
+print(f"{rang}" )
 print (" Kanal rubikam = @Cassif3r")
+time.sleep(4.0)
