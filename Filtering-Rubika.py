@@ -50,7 +50,7 @@ if update == "1":
 code = (input(" type : 2 for get code :  "))
 time.sleep(3.0)
 print(f"{red} ")
-if code == "2": print ("code is    yttk_155770   for Update type 1 -")
+if code == "2": print ("code is    yttk_15570   for Update type 1 -")
 time.sleep(3.0)
 print(f"{blue}" )
 print (" Baraye Estefade Az code dar kanal rubika' man ozv shin-!🌟 -! ")
