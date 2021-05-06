@@ -17,6 +17,7 @@ green='\033[32m'
 print(f"{green} ")
 time.sleep(2.7)
 print("                   ID RUBIKA @SHUBADEHBAZ IM MOJTABA CASSIFER")
+print ("                         ID telegram @Creator_Typeri")
 print(f"{green} ")
 time.sleep(2)
 print("__________")
