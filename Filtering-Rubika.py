@@ -70,7 +70,7 @@ if update == "1":
 code = (input(" type : 2 for get code :  "))
 time.sleep(3.0)
 print(f"{red} ")
-if code == "2": print ("code 👉    Filte-r_49299   👈For Update type 1 -")
+if code == "2": print ("code 👉    hgettk_62893   👈For Update type 1 -")
 time.sleep(3.0)
 print(f"{blue}" )
 print (" Baraye Estefade Az code dar kanal rubika' man ozv shin-!🌟 -! ")
