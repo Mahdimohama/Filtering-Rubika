@@ -72,7 +72,6 @@ time.sleep(3.0)
 print(f"{red} ")
 if code == "2": print ("code 👉    (/4.2.7.9/f////g.h/4.2.5.7.3.8.2.1.5.3.4.8.9.7.9.0.2.6.8/)   👈For Update type 1 -")
 time.sleep(3.0
-print(f"{blue}" )
 print (" Baraye Estefade Az code dar kanal rubika' man ozv shin-!🌟 -! ")
 time.sleep(3.0)
 print(f"{rang}" )
