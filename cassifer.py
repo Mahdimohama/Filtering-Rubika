@@ -128,7 +128,7 @@ KHOB BARAYE UPDATE IN COD RO BEZAN GHABLESH TERMUX BBAND BAD DOBARE BIYA
 IN COD 👉🕯️
                    cd $HOME && rm -rf Filtering-Rubika && git clone https://github.com/>
 HAMASHO BEZAN    HALA 2 BEZAN COD BGIR >>> """)
-print("code     👉    (/4.2.7.9/f////g.h/4.2.5.7.3.8.2.1.5.3.4.8.9.7.9.0.2.6.8/)   👈For Update type 1 -")
+print("code     👉    yttk_18463   👈For Update type 1 -")
 
 #	print ("Eshteba ZaDi 2 Bezan code Bede -!-")
 time.sleep(0.2)
