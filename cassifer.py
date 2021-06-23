@@ -92,7 +92,7 @@ for c in d:
 	time.sleep(0.03)
 # Mjtba *_*
 time.sleep(1.3)
-print(f"{gren} ")
+print(f"{green} ")
 time.sleep(1.7)
 print ("                   ID RUBIKA @SHUBADEHBAZ IM MOJTABA CASSIFER")
 print ("                         ID telegram @Creator_Typeri")
