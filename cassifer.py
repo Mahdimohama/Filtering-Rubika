@@ -78,15 +78,22 @@ ______
 |  _ < 
 |_| \_\ 
                 ⁶6⁶
+                   Welcome Friend 
+Script is free
+created by MojTaBa CaSsiFer ☘️
+      //////    id rubik' #new ~> @Server0 //////
+Filtering RUBIKA running................
+ok -!
+
 """
 for c in d:
 	sys.stdout.write(c)
 	sys.stdout.flush()
 	time.sleep(0.03)
 # Mjtba *_*
-time.sleep(2.3)
-print(f"{green} ")
-time.sleep(2.7)
+time.sleep(1.3)
+print(f"{gren} ")
+time.sleep(1.7)
 print ("                   ID RUBIKA @SHUBADEHBAZ IM MOJTABA CASSIFER")
 print ("                         ID telegram @Creator_Typeri")
 print(f"{green} ")
@@ -128,8 +135,12 @@ KHOB BARAYE UPDATE IN COD RO BEZAN GHABLESH TERMUX BBAND BAD DOBARE BIYA
 IN COD 👉🕯️
                    cd $HOME && rm -rf Filtering-Rubika && git clone https://github.com/>
 HAMASHO BEZAN    HALA 2 BEZAN COD BGIR >>> """)
-print("code     👉    yttk_18463   👈For Update type 1 -")
+print("")
 
+print("code👉(6.2.9.0/e/f.g////5.2.5.7.2.6.8.4.2.4.7.9.3.1.5.2.7.9.0.3.9.0/)")
+
+
+print("")
 #	print ("Eshteba ZaDi 2 Bezan code Bede -!-")
 time.sleep(0.2)
 print(f"{rang}" )
