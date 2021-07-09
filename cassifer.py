@@ -83,8 +83,6 @@ Script is free
 created by MojTaBa CaSsiFer ☘️
       //////    id rubik' #new ~> @Server0 //////
 Filtering RUBIKA running................
-ok -!
-
 """
 for c in d:
 	sys.stdout.write(c)
@@ -93,6 +91,7 @@ for c in d:
 # Mjtba *_*
 time.sleep(1.3)
 print(f"{green} ")
+print ("ok welcome friends . 💙 . ")
 time.sleep(1.7)
 print ("                   ID RUBIKA @SHUBADEHBAZ IM MOJTABA CASSIFER")
 print ("                         ID telegram @Creator_Typeri")
@@ -141,9 +140,8 @@ print("code ==>     ¥ttk_18963  ")
 
 
 print("")
-#	print ("Eshteba ZaDi 2 Bezan code Bede -!-")
 time.sleep(0.2)
-print(f"{rang}" )
+print(f"{green}" )
 print (""" 
 Kanal haye rubikam =
 @Cassif3r - @Hi_cassifer
