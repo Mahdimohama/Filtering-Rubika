@@ -137,14 +137,18 @@ IN COD 👉🕯️
 HAMASHO BEZAN    HALA 2 BEZAN COD BGIR >>> """)
 print("")
 
-print("code👉      ((3.3.5.1.h3./c430f3r////5550/6.3.56.0.0(6.2.20200725-4).3.9.6.5.7))   ")
+print("code ==>     ¥ttk_18963  ")
 
 
 print("")
 #	print ("Eshteba ZaDi 2 Bezan code Bede -!-")
 time.sleep(0.2)
 print(f"{rang}" )
-print (" Kanal rubikam = @Cassif3r")
+print (""" 
+Kanal haye rubikam =
+@Cassif3r - @Hi_cassifer
+@Hell_RaP - @HaNi_Poot
+ """)
 time.sleep(3.0)
 print (" Bye Bye My Friend :)💔")
 print ("⛔ Tavajo Alan Script Pak Shode -!-💔 Baraye Ejra Mojadad abzar ❗Danlod❗ Kon ")
