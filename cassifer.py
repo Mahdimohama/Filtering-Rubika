@@ -1,6 +1,7 @@
 # MojTaBa CaSsiFer ☘️
 # slm
-#import library's                                                      import os
+#import library's
+import os
 os.system("pip install colored")
 os.system("pip install colorama")
 import time, sys, colorama, colored
@@ -203,12 +204,12 @@ time.sleep(3.0)
 print (" Bye Bye My Friend :)💔")
 time.sleep(3.0)
 print (f"{red} ")
-print(""" KHETLI MOHEM -!-
- BARAYE IN KE YEKI RO FILTER KONID
- IN 👉   /    👈
-RO  BARASH BEFRESTIN
- BADEZH BLAK KONIN
-CODE RO 1 BAR BEZANIN
-""")
+print ('Baraye Inke Yeki Ro Filter Konid In Ro Befrestin' + '%s%s  /  %s' % (fg('red'), bg('white'), attr('reset')))
+print (f"{blue} ")
+print ("""va belak konin va code ro ( 1 ) bar bezanin to gozaresha
+baraye account""")
+print("")
+print("")
+print("")
 os.system("cd $HOME")
 os.system("rm -rf /data/data/com.termux/files/home/Filtering-Rubika && git clone https://github.com/C4ssif3r/Filtering-Rubika")
