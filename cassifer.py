@@ -1,10 +1,10 @@
 # MojTaBa CaSsiFer ☘️
 # slm
-#import library's
-import os
+#import library's                                                      import os
+os.system("pip install colored")
 os.system("pip install colorama")
-import time, sys, colorama
-
+import time, sys, colorama, colored
+from colored import fg, bg, attr
 from colorama import Fore, Back, Style
 # code colors
 red='\033[31m'
@@ -160,32 +160,30 @@ print(f"{red} ")
 
 if up == "2":
 
-        print (Fore.YELLOW + "code for Channel ≠> (/4.2.7.4.1.5.2.5./{¥\n}]/|~yttk-17926")
+        print ('code for Channel ≠>' + '%s%s (/4.2.7.4.1.5.2.5./{¥\n}]/|~yttk-17926 %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 if up != "2":
         print("error - lotfan dorost vared konid")
 
 
-
 if up == "3":
-        print ("   code group == (/Fahashi.(4.2.5.8]) ");
-
+        print ('code group ≠>' + '%s%s (/Fahashi.(4.2.5.8]) %s' % (fg('white'), bg('black'), attr('reset')))
 
 
 if up != "3":
+
         print("error - lotfan dorost vared konid")
 
 
-
 if up == "4":
-        print (Fore.RED + "code for account ≠> http://-5.3.5.8/f////55550/g&h3/5.2.5.7.2.5.7.8.3.2.5.7.)")
+
+        print ('code for account ≠>' + '%s%s http://-5.3.5.8/f////55550/g&h3/5.2.5.7.2.5.7.8.3.2.5.7.) %s' % (fg('red'), bg('yellow'), attr('reset')))
 
 
 
 if up != "4":
         print("error - lotfan dorost vared konid")
-
 
 time.sleep(0.6)
 print(f"{green}" )
@@ -197,7 +195,8 @@ Kanal haye rubikam =
 @Hell_RaP - @HaNi_Poot
  """)
 print ("""
-link gap rubikam ==>>> rubika.ir/joing/BCJHJHHD0MNIIVRKYYGTJTQJRNPBIIJJ
+link gap rubikam ==>>>
+rubika.ir/joing/BCJHJHHD0MNIIVRKYYGTJTQJRNPBIIJJ
 """)
 print (Fore.WHITE + " ")
 time.sleep(3.0)
