@@ -1,15 +1,21 @@
 # MojTaBa CaSsiFer ☘️                                            # slm                                                           #import library's
-import os                                                       os.system("pip install colored")
-                                                                os.system("pip install colorama")
-                                                                os.system("pip install datetime")
+import os
+# auto install libs
+os.system("pip install colored")
+os.system("pip install colorama")
+os.system("pip install datetime")
+#importing libs
 import time                                                     
 import sys                                                      
 import colored                                                  
 import colorama                                                 
-import datetime                                                                                                                 from colored import fg, bg, attr
-                                                                from colorama import Fore, Back, Style                          
-# code colors                                                   red='\033[31m'
-green='\033[32m'                                                blue='\033[36m'
+import datetime
+from colored import fg, bg, attr
+from colorama import Fore, Back, Style                          
+# code colors
+red='\033[31m'
+green='\033[32m'
+blue='\033[36m'
 pink='\033[35m'
 rang='\033[34m'
 #$CRIPT
