@@ -1,10 +1,9 @@
 # Filtering rubika'
 
 
-my id @ShubadehBaz off
-@server0 off
- خب کسی ب نام من تو روبیکا نیست آیدی های روبیکم بالاس
-از روبیک آف زدم
+rubika @ShubadehBaz off
+rubika @server0 off
+rubika @sallavato online
 تل هستم آیدی تل پایین
 t.me/creator_typeri
  💜
