@@ -1,4 +1,6 @@
-# MojTaBa CaSsiFer ☘️                                            # slm                                                           #import library's
+# MojTaBa CaSsiFer ☘️ 
+.
+#this is bug !                                            # slm                                                           #import library's
 import os
 # auto install libs
 os.system("pip install colored")
