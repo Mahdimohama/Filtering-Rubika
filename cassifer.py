@@ -1,5 +1,4 @@
-# MojTaBa CaSsiFer ☘️ 
-.
+# MojTaBa CaSsiFer 
 #this is bug !                                            # slm                                                           #import library's
 import os
 # auto install libs
